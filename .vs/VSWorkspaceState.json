@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AuthenticationAPI",
+    "\\AuthenticationAPI\\Controllers",
+    "\\AuthenticationAPI\\Data",
+    "\\AuthenticationAPI\\Services"
+  ],
+  "SelectedNode": "\\AuthenticationAPI\\Controllers\\AccountsController.cs",
+  "PreviewInSolutionExplorer": false
+}
